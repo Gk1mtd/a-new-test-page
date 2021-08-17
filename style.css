@@ -1,0 +1,22 @@
+h1 {
+    text-decoration: underline; 
+}
+
+p {
+    text-align: justify;
+}
+#introduction {
+    width: 50%;
+    margin-left: 25%;
+}
+
+#Tools h2 {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+#Tools ul {
+    width: 50%;
+    margin-left: 25%;
+}
